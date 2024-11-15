@@ -28,9 +28,6 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-body {
-  background: #000;
-}
 
 /* .izle {
 border:1px solid red;
@@ -44,7 +41,7 @@ border:1px solid red;
   animation: 120ms infinite normal glitch;
 }
 
-span {
+.hareket > span {
   animation: 1.5s infinite normal imlec;
 }
 
@@ -88,7 +85,7 @@ span {
   }
 }
 
-.bilmm {
+.hareket > .bilmm {
   display: inline-block;
   position: absolute;
   top: 45%;
